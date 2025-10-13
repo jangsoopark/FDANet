@@ -236,8 +236,7 @@ which have contributed to the development and validation of this work.
 ---
 
 ## Citation
-
-If you use FDANet in your research, please cite:
+If you find FDANet useful for your work please cite:
 
 ```bibtex
 @ARTICLE{FDANet20XX,
