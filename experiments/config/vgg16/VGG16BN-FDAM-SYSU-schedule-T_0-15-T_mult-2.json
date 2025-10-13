@@ -1,0 +1,16 @@
+{
+  "name": "VGG16BN-FDAM-SYSU-schedule-T_0-15-T_mult-2",
+  "device": "cuda:0",
+  "backbone": "VGG16BN",
+  "dataset": "sysu-cd",
+  "dataset-path": "/workspace/dataset/SYSU-CD/",
+  "pretrained-backbone": true,
+  "num_classes": 1,
+  "epochs": 50,
+  "batch-size": 8,
+  "learning-rate": 0.0005,
+  "learning-rate-scheduler": true,
+  "T_0": 15,
+  "T_mult": 2,
+  "weight-decay": 0.0025
+}

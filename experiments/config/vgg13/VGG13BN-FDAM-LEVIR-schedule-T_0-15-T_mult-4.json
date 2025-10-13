@@ -1,0 +1,16 @@
+{
+  "name": "VGG13BN-FDAM-LEVIR-schedule-T_0-15-T_mult-4",
+  "device": "cuda:0",
+  "backbone": "VGG13BN",
+  "dataset": "levir-cd",
+  "dataset-path": "/workspace/dataset/Levir-CD-baseline/",
+  "pretrained-backbone": true,
+  "num_classes": 1,
+  "epochs": 50,
+  "batch-size": 8,
+  "learning-rate": 5e-4,
+  "learning-rate-scheduler": true,
+  "T_0": 15,
+  "T_mult": 4,
+  "weight-decay": 0.0025
+}
