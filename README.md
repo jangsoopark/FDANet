@@ -70,8 +70,8 @@ The proposed Feature Difference Attention Module (FDAM) computes their absolute 
 \begin{equation}
 \begin{aligned}
 f_d &= \left| f_{T_1} - f_{T_2} \right|, \\[3pt]
-M_c &= \operatorname{concat}\!\left[\,\mu_s(f_d),\, M_s(f_d)\,\right], \\[3pt]
-M_s &= \operatorname{concat}\!\left[\,\mu_c(f_d),\, M_c(f_d)\,\right], \\[3pt]
+M_c &= \text{concat}\!\left[\,\mu_s(f_d),\, M_s(f_d)\,\right], \\[3pt]
+M_s &= \text{concat}\!\left[\,\mu_c(f_d),\, M_c(f_d)\,\right], \\[3pt]
 \tilde{M}_c &= \phi_c(M_c; \theta_c), \quad
 \tilde{M}_s = \phi_s(M_s; \theta_s), \\[3pt]
 Y &= \left( \tilde{M}_c \otimes \tilde{M}_s \right) \odot f_d
