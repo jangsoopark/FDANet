@@ -1,7 +1,7 @@
 # FDANet
 
 
-**Note:** Implementations and pretrained weights are currently being prepared and will be available soon.
+**Note:** ~~Implementations~~ and pretrained weights are currently being prepared and will be available soon.
 
 --- 
 
