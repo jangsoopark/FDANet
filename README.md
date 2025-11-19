@@ -6,10 +6,10 @@
 --- 
 
 Official PyTorch implementation of  
-**"Lightweight Attention Mechanism with Feature Difference for Efficient Change Detection in Remote Sensing,"**  
-*IEEE Geoscience and Remote Sensing Letters*, 2025. 
+**"Lightweight Attention Mechanism with Feature Difference for Efficient Change Detection in Remote Sensing,"** 
+*IEEE Geoscience and Remote Sensing Letters*, 2025.  
 **Authors:** J. Park, E. Lee, J. Lee, S. J. Oh, and D. Sim  
-**DOI:** (to be updated)
+**DOI:** [10.1109/LGRS.2025.3633179](https://doi.org/10.1109/LGRS.2025.3633179)
 
 ---
 
