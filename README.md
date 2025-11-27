@@ -239,18 +239,17 @@ which have contributed to the development and validation of this work.
 If you find FDANet useful for your work please cite:
 
 ```bibtex
-@ARTICLE{FDANet20XX,
-  @ARTICLE{11248878,
+@ARTICLE{11248878,
   author={Park, Jangsoo and Lee, EunSeong and Lee, Jongseok and Oh, Seoung-Jun and Sim, Donggyu},
   journal={IEEE Geoscience and Remote Sensing Letters}, 
-  title={Lightweight Attention Mechanism with Feature Differences for Efficient Change Detection in Remote Sensing}, 
-  year={2025},
-  volume={},
+  title={Lightweight Attention Mechanism With Feature Differences for Efficient Change Detection in Remote Sensing}, 
+  year={2026},
+  volume={23},
   number={},
-  pages={1-1},
-  keywords={Feature extraction;Accuracy;Barium;Attention mechanisms;Computational efficiency;Remote sensing;Computer architecture;Distortion;Computational modeling;Spatial resolution;Attention mechanisms;change detection algorithm;convolutional neural networks;bi-temporal remote sensing (RS) images},
+  pages={1-5},
+  keywords={Feature extraction;Accuracy;Barium;Attention mechanisms;Computational efficiency;Remote sensing;Computer architecture;Distortion;Computational modeling;Spatial resolution;Attention mechanisms;bitemporal remote sensing (RS) images;change detection algorithm;convolutional neural networks},
   doi={10.1109/LGRS.2025.3633179}}
-}
+
 ```
 
 ---
